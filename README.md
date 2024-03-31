@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @luisdavidantaurcomeza
-- 👀 I’m interested in android developer
-- 🌱 I’m currently learning kotlin
+- 👀 I’m interested in android developer, backend developer
+- 🌱 I’m currently learning kotlin, java.
 - 💞️ I’m looking to collaborate on tecnology
 - 📫 How to reach me luisdavid_204@hotmail.com ou linkedin https://www.linkedin.com/in/luis-david-antaurco-meza-6700ba54/
 
